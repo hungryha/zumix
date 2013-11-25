@@ -1,3 +1,6 @@
+source: .
+destination: ./_site
+layout: ./_layouts
 name: "ZUMIX Radio Project"
 description: "A documentation"
 url: "http://127.0.0.1:4000"
@@ -5,5 +8,4 @@ paginate: 10
 markdown: rdiscount
 permalink: pretty
 pygments: false
-
 
